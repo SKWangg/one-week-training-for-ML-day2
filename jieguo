@@ -1,0 +1,4 @@
+RandomForestClassifier Acc:  0.7820602662929222
+GradientBoostingClassifier Acc:  0.7806587245970568
+XGBClassifier Acc:  0.7855641205325858
+LGBMClassifier Acc:  0.7701471618780659
